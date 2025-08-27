@@ -1,0 +1,7 @@
+===== Sales Report =====
+
+Total Records: 2823
+Total Sales: 10032628.85
+Average Sale: 3553.889071909316
+Max Sale: 14082.8
+Min Sale: 482.13
